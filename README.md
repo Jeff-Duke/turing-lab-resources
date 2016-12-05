@@ -1,6 +1,6 @@
 # turing-lab-resources
 
-## This is a gathering place for resources for the Turing Lab.
+### This is a gathering place for resources for the Turing Lab.
 
 #### NodeBots
 ##### Books:
